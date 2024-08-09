@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/lucas-bramas/","title":"\"Lucas Bramas title\"","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
+{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/lucas-bramas/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
 # Hello 👋
