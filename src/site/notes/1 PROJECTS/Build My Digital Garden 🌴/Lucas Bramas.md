@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/lucas-bramas/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
-# Hello 👋
+# Bienvenue 👋
 
-Je suis Lucas, [[designer\|designer]] de [[1 PROJECTS/Build My Digital Garden 🌴/Portfolio 2024/Services\|1 PROJECTS/Build My Digital Garden 🌴/Portfolio 2024/Services]].
+Je suis Lucas, designer de services passionné et engagé. Mon rôle est d'accompagner les organisations dans la conception et l'optimisation de leurs produits et services, afin de répondre à des enjeux sociaux cruciaux.
 
-
+Mon objectif est de favoriser l'inclusivité, la durabilité et un impact positif à travers des solutions concrètes et adaptées. Ensemble, nous pouvons transformer vos idées en réalités tangibles qui feront la différence.
 
 ```markdown
 WORK IN PROGRESS
