@@ -3,6 +3,7 @@
 ---
 
 Pour mettre en ligne une image, add proprieties:
+
 ```
 dg-publish: checkbox
 ```
@@ -14,7 +15,7 @@ mais pas en check box en text
 dg-publish: checkbox
 dg-file-tree:
 dg-show-local-graph:
-dg-home-link
+dg-home-link:
 dg-show-local-graph: true
 dg-enable-search: false
 ```
