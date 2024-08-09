@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/my-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/my-garden/","tags":["gardenEntry"],"dgShowLocalGraph":"false"}
 ---
 
 # Hello 👋
@@ -9,6 +9,5 @@ Je suis Lucas, [[designer\|designer]] de [[2 AREAS/Websites/portfolio 2024/Servi
 ```markdown
 WORK IN PROGRESS
 ```
-
 
 contact@lucasbramas.com
