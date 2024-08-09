@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/my-garden/","tags":["gardenEntry"],"dgShowLocalGraph":"false"}
+{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/my-garden/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
 # Hello 👋
