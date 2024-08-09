@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/digital-garden-settings/"}
+{"dg-publish":true,"permalink":"/1-projects/build-my-digital-garden/digital-garden-settings/","dgShowLocalGraph":"false"}
 ---
 
 Pour mettre en ligne une image, add proprieties:
