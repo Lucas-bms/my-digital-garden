@@ -6,7 +6,7 @@
 
 Je suis Lucas, designer de services passionné et engagé. J'accompagne les organisation dans la création de produits et services qui répondent aux enjeux sociaux contemporains. Mon approche centrée sur l'humain et ma méthodologie systémique me permettent de naviguer dans la complexité, en garantissant inclusivité, durabilité et impact positif.
 
-**Ce que j'offre** : 
+**Ce que j'offre**
 
 - **Clarté analytique :** Grâce à une recherche terrain, je cartographie les acteurs et dynamiques de votre écosystème pour mieux comprendre les besoins des parties prenantes et les problématiques à résoudre.
 - **Collaboration active :** En organisant des ateliers avec les parties prenantes, je favorise une co-création qui enrichit votre projet et renforce sont adhésion.
@@ -17,10 +17,7 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 - [[Réinventer les Prévisions Météo pour les Agriculteurs au Ghana\|Réinventer les Prévisions Météo pour les Agriculteurs au Ghana]]: j'ai travaillé avec Ignitia pour améliorer les services de conseils agricoles au Ghana.
 
 
-- [[2 AREAS/My Digital Garden/Pages/Ma Bibliothèque\|Ma Bibliothèque]]
-- [[Jardin\|Jardin]]
-
-**Contact**
+**Me contacter**
 
 Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter. 
 
