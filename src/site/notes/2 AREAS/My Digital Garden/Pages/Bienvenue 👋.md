@@ -23,6 +23,5 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 - [[Ressources\|Ressources]]
 	- [[5 GARDEN/Projets de recherches/!MOC/PRIVACY\|PRIVACY]]
 
-
-
-<!-- Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter : contact@lucasbramas.com -->
+#### Contact
+Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter : contact@lucasbramas.com
