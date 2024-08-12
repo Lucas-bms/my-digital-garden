@@ -18,7 +18,7 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 
 Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter : contact@lucasbramas.com
 
-- Découvrez mes notes et recherches dans mon [[Digital Gardens\|Digital Gardens]] (Jardins Numériques)
+- Découvrez mes notes et recherches dans mon [[Digital Garden\|Digital Garden]] (Jardin Numérique)
 - Suivez-moi sur [Mastodon](https://mastodon.social/@lucasbms) et [Linkedin](https://www.linkedin.com/in/lucasbramas/)
 - [Ma Veille](https://readwise.io/reader/view/35ed2342-0d0c-492c-a73d-3126f2cd207b)
 - [[2 AREAS/My Digital Garden/Pages/Ma Bibliothèque\|Ma Bibliothèque]]
