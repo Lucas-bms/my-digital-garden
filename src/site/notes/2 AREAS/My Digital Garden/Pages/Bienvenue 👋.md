@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bienvenue 👋.md","permalink":"/bienvenue/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowToc":"false"}
+{"dg-publish":true,"dg-path":"Bienvenue 👋.md","permalink":"/bienvenue/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowToc":"false","created":"2024-08-09T01:19:08.164+02:00","updated":"2024-08-13T00:46:31.264+02:00"}
 ---
 
 ## Hello 👋

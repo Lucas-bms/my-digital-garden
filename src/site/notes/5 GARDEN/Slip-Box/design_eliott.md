@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-garden/slip-box/design-eliott/","dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"fasle","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false"}
+{"dg-publish":true,"permalink":"/5-garden/slip-box/design-eliott/","dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"fasle","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","created":"2024-08-08T18:07:27.305+02:00","updated":"2024-08-12T22:19:53.511+02:00"}
 ---
 
 

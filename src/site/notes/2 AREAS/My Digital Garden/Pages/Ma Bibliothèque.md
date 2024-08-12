@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Ma Bibliothèque.md","permalink":"/ma-bibliotheque/","dgShowBacklinks":"false","dgShowLocalGraph":"false"}
+{"dg-publish":true,"dg-path":"Ma Bibliothèque.md","permalink":"/ma-bibliotheque/","dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"2024-08-11T21:54:47.417+02:00","updated":"2024-08-12T22:29:51.523+02:00"}
 ---
 
 | File                                                                                                                                                                            | Title | Item | Status  | Read | Contribution |
