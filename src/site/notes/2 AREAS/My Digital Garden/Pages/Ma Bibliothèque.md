@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/my-digital-garden/pages/ma-bibliotheque/","dgShowBacklinks":"false","dgShowLocalGraph":"false"}
+{"dg-publish":true,"dg-path":"Ma Bibliothèque.md","permalink":"/ma-bibliotheque/","dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
 | File                                                                                                                                                                            | Title | Item | Status  | Read | Contribution |

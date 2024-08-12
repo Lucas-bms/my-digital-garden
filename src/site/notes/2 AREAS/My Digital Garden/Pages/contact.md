@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/my-digital-garden/pages/contact/"}
+{"dg-publish":true,"dg-path":"contact.md","permalink":"/contact/"}
 ---
 
 

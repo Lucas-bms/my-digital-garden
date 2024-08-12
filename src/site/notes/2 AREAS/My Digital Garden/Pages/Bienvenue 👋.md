@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/my-digital-garden/pages/bienvenue/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowToc":"false"}
+{"dg-publish":true,"dg-path":"Bienvenue 👋.md","permalink":"/bienvenue/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowToc":"false"}
 ---
 
 ## Hello 👋
