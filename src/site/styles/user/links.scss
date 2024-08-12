@@ -1,6 +1,3 @@
-:root {
-   --color-accent: orange;
-   --link-color: orange;
-   --link-external-color: orange;
-   --text-accent: orange;
+a.internal-link.is-unresolved div.toc-container a.internal-link a.external-link a {
+   color: orange;
 }
