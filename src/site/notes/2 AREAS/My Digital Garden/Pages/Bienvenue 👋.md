@@ -8,19 +8,17 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 
 **Ce que j'offre**
 
-- **Clarté analytique :** Grâce à une recherche terrain, je cartographie les acteurs et dynamiques de votre écosystème pour mieux comprendre les besoins des parties prenantes et les problématiques à résoudre.
-- **Collaboration active :** En organisant des ateliers avec les parties prenantes, je favorise une co-création qui enrichit votre projet et renforce sont adhésion.
-- **Feuille de route stratégique :** Je vous accompagne dans l'élaboration d'une stratégie claire, incluant des expérimentations et une optimisation continue de votre service et modèle économique.
+- **Clarté analytique :** Via une recherche terrain, je cartographie les acteurs et dynamiques de d'écosystème pour mieux comprendre les besoins des parties prenantes et les problématiques à résoudre.
+- **Collaboration active :** En organisant des ateliers avec les parties prenantes, je favorise une co-création qui enrichit le projet et renforce sont adhésion.
+- **Feuille de route stratégique :** J'accompagne dans l'élaboration d'une stratégie claire, incluant des expérimentations et une optimisation continue du service et modèle économique.
+- **Conception de service :**
 
 **Mes travaux**
 
 - [[Réinventer les Prévisions Météo pour les Agriculteurs au Ghana\|Réinventer les Prévisions Météo pour les Agriculteurs au Ghana]]: j'ai travaillé avec Ignitia pour améliorer les services de conseils agricoles au Ghana.
 
+Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter : contact@lucasbramas.com
 
-**Me contacter**
 
-Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter. 
-
-contact@lucasbramas.com
-[Mastodon](https://mastodon.social/@lucasbms)
-[Linkedin](https://www.linkedin.com/in/lucasbramas/)
+- Découvrez mes notes et recherches dans mon [[Garden\|Garden]]
+- Suivez-moi sur [Mastodon](https://mastodon.social/@lucasbms) et [Linkedin](https://www.linkedin.com/in/lucasbramas/)
