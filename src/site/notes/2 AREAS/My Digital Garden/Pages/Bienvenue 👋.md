@@ -20,7 +20,7 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 - Découvrez mes notes et recherches dans mon [[2 AREAS/My Digital Garden/Pages/Jardin Numérique\|Jardin Numérique]] / [[Digital Garden\|Digital Garden]]
 - [Ma Veille](https://readwise.io/reader/view/35ed2342-0d0c-492c-a73d-3126f2cd207b)
 - [[2 AREAS/My Digital Garden/Pages/Ma Bibliothèque\|Ma Bibliothèque]]
-- [[Ressources\|Ressources]]
+- [[2 AREAS/My Digital Garden/Pages/ressources\|Ressources]]
 	- [[5 GARDEN/Projets de recherches/!MOC/PRIVACY\|PRIVACY]]
 
 #### Contact

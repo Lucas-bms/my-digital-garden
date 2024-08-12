@@ -10,8 +10,8 @@
 | [[5 GARDEN/Reference System/Books/Problem Solving 101 - A Simple Book for Smart People - Ken Watanabe\|Problem Solving 101 - A Simple Book for Smart People - Ken Watanabe]] | \-    | \-   | terminé | \-   | \-           |
 | [[5 GARDEN/Reference System/Books/A Pocket Guide to Psychology for designers, Leech,\|A Pocket Guide to Psychology for designers, Leech,]]                                   | \-    | \-   | terminé | \-   | \-           |
 | [[5 GARDEN/Reference System/1 À lire/Transpolitan\|Transpolitan]]                                                                                                            | \-    | \-   | terminé | \-   | \-           |
-| [[5 GARDEN/Reference System/Books/Construire un second cerveau, Forte, 2023\|Construire un second cerveau, Forte, 2023]]                                                     | \-    | \-   | terminé | \-   | \-           |
 | [[5 GARDEN/Reference System/Books/@Roam_2001\|@Roam_2001]]                                                                                                                   | \-    | \-   | terminé | \-   | \-           |
+| [[5 GARDEN/Reference System/Books/Construire un second cerveau, Forte, 2023\|Construire un second cerveau, Forte, 2023]]                                                     | \-    | \-   | terminé | \-   | \-           |
 
 { .block-language-dataview}
 
