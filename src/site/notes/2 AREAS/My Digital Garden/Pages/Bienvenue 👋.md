@@ -9,9 +9,8 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 **Ce que j'offre**
 
 - **Clarté analytique :** Via une recherche terrain, je cartographie les acteurs et dynamiques de d'écosystème pour mieux comprendre les besoins des parties prenantes et les problématiques à résoudre.
-- **Collaboration active :** En organisant des ateliers avec les parties prenantes, je favorise une co-création qui enrichit le projet et renforce sont adhésion.
+- **Collaboration active :** En organisant des ateliers avec les parties prenantes, je favorise une co-création qui enrichit le projet et renforce son adhésion.
 - **Feuille de route stratégique :** J'accompagne dans l'élaboration d'une stratégie claire, incluant des expérimentations et une optimisation continue du service et modèle économique.
-- **Conception de service :** 
 
 **Mes travaux**
 
@@ -19,8 +18,7 @@ Je suis Lucas, designer de services passionné et engagé. J'accompagne les orga
 
 Si vous souhaitez maximiser l'impact de vos initiatives et créer des expériences significatives pour vos bénéficiaires, n'hésitez pas à me contacter : contact@lucasbramas.com
 
-
 - Découvrez mes notes et recherches dans mon [[Digital Gardens\|Digital Gardens]] (Jardins Numériques)
 - Suivez-moi sur [Mastodon](https://mastodon.social/@lucasbms) et [Linkedin](https://www.linkedin.com/in/lucasbramas/)
 - [Ma Veille](https://readwise.io/reader/view/35ed2342-0d0c-492c-a73d-3126f2cd207b)
-- 
+- [[2 AREAS/My Digital Garden/Pages/Ma Bibliothèque\|Ma Bibliothèque]]
