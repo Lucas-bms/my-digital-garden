@@ -1,3 +1,12 @@
+h2 {
+    color: aqua;
+}
+
+a.internal-link.is-unresolved div.toc-container a.internal-link a.external-link a {
+    color: orange;
+}
+
+
 /* src/site/styles/user/footer.css */
 
 footer {
