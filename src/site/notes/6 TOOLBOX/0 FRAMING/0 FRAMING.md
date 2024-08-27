@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-toolbox/0-framing/0-framing/","created":"2024-03-02T08:15:06.000+01:00","updated":"2024-08-27T19:31:15.301+02:00"}
+{"dg-publish":true,"permalink":"/6-toolbox/0-framing/0-framing/","created":"2024-03-02T08:15:06.000+01:00","updated":"2024-08-27T19:33:26.255+02:00"}
 ---
 
 # Problem or challenge
